@@ -13,6 +13,9 @@ namespace MutareaPionul
             pionFlow.ExecuteOperation(Operation.Up);
             pionFlow.ExecuteOperation(Operation.Right);
             pionFlow.ExecuteOperation(Operation.Right);
+            pionFlow.ExecuteOperation(Operation.Right);
+            pionFlow.ExecuteOperation(Operation.Right);
+            pionFlow.ExecuteOperation(Operation.Right);
 
 
 
